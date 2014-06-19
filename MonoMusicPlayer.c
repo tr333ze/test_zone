@@ -1,5 +1,6 @@
 Maciej Potas
 MMM
+ZZZ
 // Projektem jest stworzenie prostego odtwarzacza dzwiekow MONO w postaci odgrywalnej
 // muzyczki ;).
 
