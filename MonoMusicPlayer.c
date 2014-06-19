@@ -1,4 +1,4 @@
-
+Maciej Potas
 
 // Projektem jest stworzenie prostego odtwarzacza dzwiekow MONO w postaci odgrywalnej
 // muzyczki ;).
