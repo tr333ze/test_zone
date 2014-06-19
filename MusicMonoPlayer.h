@@ -3,7 +3,7 @@
 #include <avr/interrupt.h>
 #define PORT PORTD
 #define PORT_PIN 3
-
+asd
 short kolumna , wiersz = 1;			// Odpowiedzialne za pilnowanie pozycji LCD
 short NewKey = 0 ;
 short KeyNum = 0 ;
